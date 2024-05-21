@@ -1,7 +1,8 @@
 {
 	"expo": {
-		"name": "react-native-mobile-app",
-		"slug": "react-native-mobile-app",
+		"name": "AORA",
+    "scheme": "AORA",
+		"slug": "AORA",
 		"version": "1.0.0",
 		"orientation": "portrait",
 		"icon": "./assets/icon.png",
